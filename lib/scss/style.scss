@@ -1,0 +1,22 @@
+
+@import '../../node_modules/reset.css/reset';
+@import '../../node_modules/normalize.css/normalize';
+
+
+body{
+  .container{
+    width: 1024px;
+    margin: 0 auto;
+   
+  }
+    textarea{
+      display: block;
+      position: relative;
+      margin-right: 20px;
+      margin-top: 150px;
+      float: left;
+      
+    }
+}
+
+
